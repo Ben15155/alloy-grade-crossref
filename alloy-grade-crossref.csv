@@ -1,0 +1,23 @@
+metal,gb_grade,chemical_name,system,key_composition_wt_pct,astm_aa_uns,en_1706_1753,jis,match,notes
+aluminum,ZL101,ZAlSi7Mg,Al-Si-Mg,Si 6.5-7.5; Mg 0.25-0.45; Cu <=0.2; Fe <=0.5,356.0 / A356.0 (A03560/A13560),AC-42000 / 42100 AlSi7Mg,AC4C,close,
+aluminum,ZL101A,ZAlSi7MgA,Al-Si-Mg,Si 6.5-7.5; Mg 0.25-0.45; Ti 0.08-0.20; Fe <=0.2,A356.0 (A13560),AC-42100 AlSi7Mg0.3,AC4CH,near-exact,
+aluminum,ZL102,ZAlSi12,Al-Si,Si 10.0-13.0; Cu <=0.30; Fe <=0.7,413.0 / A413.0 (A04130/A14130),AC-44000 / 44100,AC3A,close,
+aluminum,ZL104,ZAlSi9Mg,Al-Si-Mg,Si 8.0-10.5; Mg 0.17-0.35; Mn 0.2-0.5; Fe <=0.6,A360.0 (A13600); ~359.0,AC-43300 AlSi9Mg,AC4A,approx,A360 is HPDC with higher Fe; EN AC-43300 closer
+aluminum,ZL105,ZAlSi5Cu1Mg,Al-Si-Cu-Mg,Si 4.5-5.5; Cu 1.0-1.5; Mg 0.4-0.6; Fe <=0.6,355.0 / C355 (A03550),AC-45300 AlSi5Cu1Mg,AC4D,close,
+aluminum,ZL105A,ZAlSi5Cu1MgA,Al-Si-Cu-Mg,Si 4.5-5.5; Cu 1.0-1.5; Mg 0.4-0.55; Fe <=0.2,A355.0 / 355.0,AC-45300,AC4D,close,
+aluminum,ZL111,ZAlSi9Cu2Mg,Al-Si-Cu-Mg,Si 8.0-10.0; Cu 1.3-1.8; Mg 0.4-0.6; Ti 0.10-0.35,354.0 (A03540),none clean,none,close,NOT AlSi8Cu3/AC-46200 - common name-based error
+aluminum,ZL114A,ZAlSi7Mg1A,Al-Si-Mg,Si 6.5-7.5; Mg 0.45-0.75; Ti 0.10-0.20; Be <=0.07,A357.0 (A13570),AC-42200 AlSi7Mg0.6,AC4CH-mod,close,
+aluminum,ZL116,ZAlSi8MgBe,Al-Si-Mg-Be,Si 6.5-8.5; Mg 0.35-0.55; Be 0.15-0.40,~A357 family,none,none,approx/none,
+aluminum,ZL201,ZAlCu5Mn,Al-Cu-Mn,Cu 4.5-5.3; Mn 0.6-1.0; Ti 0.15-0.35,~204.0 / 295.0 (Al-Cu4),AC-21100 AlCu4Ti,AC1B,approx,Western grades are Cu4
+aluminum,ZL201A,ZAlCu5MnA,Al-Cu-Mn,Cu 4.8-5.3; Mn 0.6-1.0; Cd 0.15-0.25; Fe <=0.15,~206.0 / A206.0,none,none,approx,
+aluminum,ZL205A,ZAlCu5MnCdVTiB,Al-Cu (micro-alloyed),Cu 4.6-5.3; Mn 0.3-0.5; Cd; V; Zr; B,none (nearest 206.0/A206.0),none,none,none,China/aerospace proprietary - no Western equivalent
+aluminum,ZL301,ZAlMg10,Al-Mg,Mg 9.5-11.0; Si <=0.30; Be 0.03-0.10,520.0 (A05200),~AC-51300 AlMg9,AC7B,close,
+aluminum,ZL401,ZAlZn11Si7,Al-Zn-Si,Zn 9.0-13.0; Si 6.0-8.0; Mg 0.1-0.3,none direct,none,none,approx/none,
+magnesium,ZM1,ZMgZn5Zr,Mg-Zn-Zr,Zn 3.5-5.5; Zr >=0.5,ZK51A (M16510); JIS MC6,MCMgZn6Zr family,exact,
+magnesium,ZM2,ZMgZn4RE1Zr,Mg-Zn-RE-Zr,Zn 3.5-5.0; RE(Ce) 0.75-1.75; Zr 0.5-1.0,ZE41A (M16410) = Elektron RZ5,MC35110,exact/near-exact,
+magnesium,ZM3,ZMgRE3ZnZr,Mg-RE-Zn-Zr (Ce),RE(Ce) 2.5-4.0; Zn 0.2-0.7; Zr 0.4-1.0,EZ33A (M12330) family,MC65120,approx,low Zn
+magnesium,ZM4,ZMgRE3Zn2Zr,Mg-RE-Zn-Zr (Ce),RE 2.5-4.0; Zn 2.0-3.0; Zr 0.5-1.0,EZ33A (M12330),MC65120,close,
+magnesium,ZM5,ZMgAl8Zn,Mg-Al-Zn,Al 7.5-9.0; Zn 0.2-0.8; Mn 0.15-0.50,AZ91C/E (M11914/M11919); JIS MC2,MCMgAl9Zn1,close,between AZ81A and AZ91
+magnesium,ZM6,ZMgNd2ZnZr,Mg-RE-Zn-Zr (Nd),Nd 2.0-3.0; Zn 0.2-0.7; Zr 0.4-1.0,EZ33A (M12330) analog,MC65120 (indicative),approx,NOT ZE41A; true 1:1 is Russian ML10
+magnesium,ZM7,ZMgZn8AgZr,Mg-Zn-Ag-Zr,Zn 7.5-9.0; Ag 0.6-1.2; Zr 0.5-1.0,none clean (nearest ZK61A no Ag),none,none,none,China-proprietary
+magnesium,ZM10,ZMgAl10Zn,Mg-Al-Zn,Al 9.0-10.2; Zn 0.6-1.2; Mn 0.1-0.5,AZ91C/E (Zn/Mn); AZ92A (Al),~MCMgAl9Zn1,close,high Al
