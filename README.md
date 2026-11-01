@@ -54,3 +54,6 @@ are genuinely exact: **ZM1 → ZK51A** and **ZM2 → ZE41A**. The single binding
 ## Contributing
 Found a better composition match or a GB/T 1177-2018 impurity-ceiling correction? Open an issue or PR with the
 authoritative source. Sources used: GB/T 1173 / 1177, ASTM B26/B108/B80/B403, EN 1706/1753, Total Materia, MatWeb, MakeItFrom.
+
+## Related notes
+- [Magnesium casting RFQ notes](magnesium-casting-rfq-notes.md) — sand, low-pressure, gravity permanent mold, and investment: process choice, when to call out AZ91C, and what an RFQ needs.
